@@ -40,7 +40,7 @@ These are used to calculate the P and q for the next stage.
 ### Stitching in action
 | Vicon Stitch | Estimated Orientation Stitch |
 | ----------- | ----------- |
-| [!(Results/Pano8Vicon.jpg)](https://youtu.be/p9OQAM88Epc) | [!(Results/Pano8IMU.jpg)](https://youtu.be/p30TAvp4XgA) |
+| !(Results/Pano8Vicon.jpg)(https://youtu.be/p9OQAM88Epc) | !(Results/Pano8IMU.jpg)(https://youtu.be/p30TAvp4XgA) |
 
 
 Instructions
@@ -60,5 +60,5 @@ Place the cam data in "cam" folder, vicon data in "vicon" folder and imu data in
 * quat_helper.py contains neccessarry functions for quaternion state vector manipulation.
 
 # References
-* [A quaternion-based unscented Kalman filter for orientation tracking]http://ieeexplore.ieee.org/document/1257247/
+* [A quaternion-based unscented Kalman filter for orientation tracking](http://ieeexplore.ieee.org/document/1257247/)
 * [The Kalman Filter](http://www.stat.columbia.edu/~liam/teaching/neurostat-spr12/papers/hmm/KF-welling-notes.pdf)
