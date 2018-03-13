@@ -30,8 +30,8 @@ Challenge Description
 
 | Roll-Pitch-Yaw | Vicon Stitch | Estimated Orientation Stitch |
 | ----------- | ----------- | ----------- |
-| <img src="Results/RPY1.png" width="1000"> | <img src="Results/Pano1Vicon.jpg" width="1000"> | <img src="Results/Pano1IMU.jpg" width="1000"> |
-| <img src="Results/RPY8.png" width="1000"> | <img src="Results/Pano8Vicon.jpg" width="1000"> | <img src="Results/Pano8IMU.jpg" width="1000"> |
+| <img src="Results/RPYn1.png" width="1000"> | <img src="Results/Pano1Vicon.jpg" width="1000"> | <img src="Results/Pano1IMU.jpg" width="1000"> |
+| <img src="Results/RPYn8.png" width="1000"> | <img src="Results/Pano8Vicon.jpg" width="1000"> | <img src="Results/Pano8IMU.jpg" width="1000"> |
 
 | Test Dataset Roll-Pitch-Yaw | Estimated Orientation Stitch |
 | ----------- | ----------- |
