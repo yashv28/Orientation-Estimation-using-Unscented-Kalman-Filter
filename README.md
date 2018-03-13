@@ -46,7 +46,9 @@ These are used to calculate the P and q for the next stage.
 Instructions
 ------------
 Download:
+
 [Training Dataset](https://upenn.app.box.com/v/ese650Proj2-train)
+
 [Test Dataset](https://upenn.app.box.com/v/ese650Proj2-test)
 
 Place the cam data in "cam" folder, vicon data in "vicon" folder and imu data in "imu" folder.
