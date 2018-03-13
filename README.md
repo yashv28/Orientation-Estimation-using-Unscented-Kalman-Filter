@@ -40,7 +40,7 @@ These are used to calculate the P and q for the next stage.
 ### Stitching in action
 | Vicon Stitch | Estimated Orientation Stitch |
 | ----------- | ----------- |
-| ![](Results/Pano8Vicon.jpg)(https://youtu.be/p9OQAM88Epc) | ![](Results/Pano8IMU.jpg)(https://youtu.be/p30TAvp4XgA) |
+| [![](Results/Pano8Vicon.jpg)](https://youtu.be/p9OQAM88Epc) | [![](Results/Pano8IMU.jpg)](https://youtu.be/p30TAvp4XgA) |
 
 
 Instructions
