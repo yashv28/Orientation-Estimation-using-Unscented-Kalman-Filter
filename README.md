@@ -30,8 +30,8 @@ These are used to calculate the P and q for the next stage.
 
 | Roll-Pitch-Yaw | Vicon Stitch | Estimated Orientation Stitch |
 | ----------- | ----------- | ----------- |
-| ![](Results/RPY1.png) | ![](Results/Pano1Vicon.jpg) | ![](Results/Pano1IMU.jpg) 
-| ![](Results/RPY8.png) | ![](Results/Pano8Vicon.jpg) | ![](Results/Pano8IMU.jpg) 
+| ![](Results/RPY1.png =250x) | ![](Results/Pano1Vicon.jpg =250x) | ![](Results/Pano1IMU.jpg =250x) 
+| ![](Results/RPY8.png =250x) | ![](Results/Pano8Vicon.jpg =250x) | ![](Results/Pano8IMU.jpg =250x) 
 
 | Test Dataset Roll-Pitch-Yaw | Estimated Orientation Stitch |
 | ----------- | ----------- |
