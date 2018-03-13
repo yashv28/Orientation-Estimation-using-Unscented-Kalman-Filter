@@ -11,8 +11,8 @@ import cPickle as pickle
 #######################################################################
 #######################################################################
 
-Dataset = 1
-est = False#True #Set False for stitching with vicon data
+Dataset = 8
+est = True #Set False for stitching with vicon data
 stitch = True #Set False for skipping panorama
 
 #######################################################################
